@@ -1,5 +1,13 @@
-.character{
-  width: 20px;
-  height: 20px;
-  background-color: blue;
+.appbody{
+  background-color:blue;
+  width: 1920px;
+  height: 1080px;
+  z-index: 1;
+}
+.block{
+  background-color: black;
+  width: 100px;
+  height: 100px;
+  
+  z-index: 100;
 }
